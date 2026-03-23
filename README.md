@@ -133,7 +133,7 @@ This section demonstrates how SOC activities and technical controls support comp
 
 ### Visual Mapping
 
-![CMMC Visual Mapping](/Users/admin/Documents/GitHub/home-soc-lab-cmmc/screenshots:/07_cmmc_visual_mapping.png)
+![CMMC Visual Mapping](07_cmmc_visual_mapping.png)
 This diagram illustrates how SOC monitoring and detection activities align with CMMC security practices through implemented controls.
 
 ---
